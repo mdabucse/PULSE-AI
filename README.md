@@ -30,7 +30,7 @@ The need for an AI-powered Neonatal Vital Monitoring System stems from the criti
 * **Report Generation**
 
 ## Flowchart
-![logo](https://raw.githubusercontent.com/mdabucse/PULSE-AI-QUANT-A-MAZE-HACK-/refs/heads/master/Docmentation/flow.jpeg)
+![logo](![final flow chart](https://github.com/user-attachments/assets/6271b232-3e5b-4ec4-82d6-5eee113a6454))
 
 
 ### User Features
